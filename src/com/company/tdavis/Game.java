@@ -1,6 +1,6 @@
 package com.company.tdavis;
 
-class Game {
+public class Game {
     public static final int MAX_MISSES = 7;
     private String answer;
     private String hits;
